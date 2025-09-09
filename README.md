@@ -73,7 +73,7 @@
   <!-- Hero -->
   <section id="home" class="hero">
     <h1>Hello, I'm <span>MONISHKUMAR</span></h1>
-    <p>I am the veti officer</p>
+    <p>I am the student</p>
     <a href="#projects"><button>View My Work</button></a>
   </section>
 
