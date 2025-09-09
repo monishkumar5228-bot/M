@@ -147,7 +147,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 MR__ YOGA | All rights reserved</p>
+    <p>&copy; 2025 MONISHKUMAR | All rights reserved</p>
   </footer>
 
   <!-- Scripts -->
